@@ -103,8 +103,8 @@ civic-pulse/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ladanikirtan10-cyber/civic-pulse.git
-   cd civic-pulse
+   git clone https://github.com/ladanikirtan10-cyber/AI-Powered-Government-Grievance-Management-System.git
+   cd AI-Powered-Government-Grievance-Management-System
    ```
 
 2. **Install dependencies**
